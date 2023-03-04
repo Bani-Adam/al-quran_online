@@ -1,1 +1,1 @@
-# Bani-Adam.github.io-quranlite
+# Quran Online
