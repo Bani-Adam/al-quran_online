@@ -10,7 +10,7 @@
                     <p class="text-muted">
                         Baca Al-Qur'an secara Online dimana dan kapanpun saja dengan mudah, Al-Qur'an ini yang bersumber
                         dari
-                        <a href="#" class="text-decoration-none text-warning">Kementrian Agama Republik Indonesia
+                        <a href="#" class="text-decoration-none text-warning">Kementerian Agama Republik Indonesia
                         </a> dengan murottal
                         <strong>Misyari Rasyid Al-'Afasi</strong>.
                     </p>
@@ -20,8 +20,9 @@
             <div class="row">
                 <div class="col-md-12 justify-content-center text-center">
                     <span class="">
-                        Dibuat oleh <a href="https://baniadam.my.id" target="_blank"
-                            class="text-decoration-none text-warning">Bani Adam</a>, Mahasiswa Sistem Informasi <a href="https://www.ut.ac.id" target="_blank">Universitas Terbuka</a>
+                        Dibuat oleh <a href="https://baniadam.my.id/mylink" target="_blank"
+                            class="text-decoration-none text-warning">Bani Adam</a>, Mahasiswa Sistem Informasi 
+                            <a href="https://www.ut.ac.id" target="_blank" class="text-decoration-none text-warning">Universitas Terbuka</a>
                     </span>
                 </div>
             </div>

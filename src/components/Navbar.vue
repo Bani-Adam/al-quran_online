@@ -30,7 +30,7 @@
                         </ul>
                     </li> -->
                 </ul>
-                <a href="https://baniadam.my.id" class="btn btn-success float-end btn-custom"
+                <a href="https://github.com/Bani-Adam" class="btn btn-success float-end btn-custom"
                     target="_blank">Bani Adam Project 🔗
                 </a>
             </div>
