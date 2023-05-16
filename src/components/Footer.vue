@@ -20,7 +20,7 @@
             <div class="row">
                 <div class="col-md-12 justify-content-center text-center">
                     <span class="">
-                        Dibuat oleh <a href="https://baniadam.my.id/mylink" target="_blank"
+                        Dibuat oleh <a href="https://dam-myprofile.vercel.app" target="_blank"
                             class="text-decoration-none text-warning">Bani Adam</a>, Mahasiswa Sistem Informasi 
                             <a href="https://www.ut.ac.id" target="_blank" class="text-decoration-none text-warning">Universitas Terbuka</a>
                     </span>
