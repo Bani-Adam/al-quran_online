@@ -20,9 +20,8 @@
             <div class="row">
                 <div class="col-md-12 justify-content-center text-center">
                     <span class="">
-                        Dibuat oleh <a href="https://dam-myprofile.vercel.app" target="_blank"
-                            class="text-decoration-none text-warning">Bani Adam</a>, Mahasiswa Sistem Informasi 
-                            <a href="https://www.ut.ac.id" target="_blank" class="text-decoration-none text-warning">Universitas Terbuka</a>
+                        &copy; Copyright 2023 <a href="https://dam-myprofile.vercel.app" target="_blank"
+                            class="text-decoration-none text-warning">ADAM DEV.</a> | All Right Reserved
                     </span>
                 </div>
             </div>

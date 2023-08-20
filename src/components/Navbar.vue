@@ -31,7 +31,7 @@
                     </li> -->
                 </ul>
                 <a href="https://github.com/Bani-Adam" class="btn btn-success float-end btn-custom"
-                    target="_blank">Bani Adam Project 🔗
+                    target="_blank">ADAM DEV. Project
                 </a>
             </div>
         </div>
