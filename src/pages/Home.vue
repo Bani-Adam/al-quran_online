@@ -11,7 +11,7 @@
                 <strong>Misyari Rasyid Al-'Afasi</strong>. <br>
                 Untuk informasi lebih lanjut tentang aplikasi ini, silakan kunjungi repositori github saya di
                 <a href="https://github.com/Bani-Adam" class="text-decoration-none text-warning"
-                    target="_blank">Bani Adam</a>
+                    target="_blank">sini</a>
             </p>
             <!-- <div>
                 <router-link :to="{ name: 'home' }" class="btn btn-warning m-1">Surah</router-link>
