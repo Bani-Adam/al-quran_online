@@ -20,7 +20,7 @@
             <div class="row">
                 <div class="col-md-12 justify-content-center text-center">
                     <span class="">
-                        &copy; Copyright 2023 <a href="https://www.adamdev.my.id" target="_blank"
+                        &copy; Copyright 2024 <a href="https://www.adamdev.my.id" target="_blank"
                             class="text-decoration-none text-warning">ADAM DEV.</a> | All Right Reserved
                     </span>
                 </div>
